@@ -1,0 +1,12 @@
+Id Gender Id Gender 
+u0007 F u0004 M 
+u0009 F u0002 M 
+u0010 F u0004 M 
+u0004 M u0010 F 
+u0003 M u0006 F 
+u0003 M u0007 F 
+u0003 M u0008 F 
+u0003 M u0009 F 
+u0003 M u0010 F 
+
+Number of records fetched: 9
