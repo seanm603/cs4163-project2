@@ -53,7 +53,9 @@ SELECT * FROM users;
 ```
 As you can see, updating Bill Nye's gender, removed him from the `male_users` view
 ![Updated male table](.images/updateMale.png)
+
 And updated his gender in the table of all users as well.
+
 ![Table without Bill Nye](.images/billNyefemale.png)
 
 
